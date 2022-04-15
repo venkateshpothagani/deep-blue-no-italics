@@ -992,13 +992,6 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Color for Emphasis Italic",
-			"scope": "markup.italic.markdown",
-			"settings": {
-				"fontStyle": ""
-			}
-		},
-		{
 			"name": "[MARKDOWN] - Color for Lists",
 			"scope": [
 				"beginning.punctuation.definition.list.markdown",
@@ -1056,7 +1049,6 @@
 				"punctuation.definition.raw.markdown",
 				"punctuation.definition.heading.markdown",
 				"punctuation.definition.bold.markdown",
-				"punctuation.definition.italic.markdown"
 			],
 			"settings": {
 				"foreground": "#494685"
@@ -1528,21 +1520,6 @@
 			"scope": ["keyword.rainbow2"],
 			"settings": {
 				"foreground": "#FF9D00"
-			}
-		},
-		{
-			"name": "[ITALICS]",
-			"scope": [
-				"modifier",
-				"entity.other.attribute-name.js",
-				"text.html.basic entity.other",
-				"markup.quote.markdown meta.paragraph.markdown",
-				"markup.italic.markdown",
-				"text.jade entity.other.attribute-name.tag",
-				"entity.other.attribute-name.tag.pug"
-			],
-			"settings": {
-				"fontStyle": ""
 			}
 		},
 		{
