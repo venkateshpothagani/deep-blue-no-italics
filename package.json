@@ -1,0 +1,24 @@
+{
+	"name": "deep-blue-no-italics",
+	"displayName": "Deep Blue No Italics",
+	"description": "Deep Blue Color Theme without Italic font support",
+	"version": "0.0.1",
+	"repository": {
+		"url": "https://github.com/venkateshpothagani/Deep-Blue-No-Italics.git"
+	},
+	"engines": {
+		"vscode": "^1.66.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Deep Blue No Italics",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DeepBlueNoItalics.json"
+			}
+		]
+	}
+}
